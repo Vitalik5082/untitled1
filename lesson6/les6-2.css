@@ -1,0 +1,24 @@
+.a, .b, .c, .d, .e, .f{
+    background-color: #7a7a7a;
+    border-radius: 4px;
+    border: 2px seashell solid;
+}
+.a{
+    width: 99vw;
+    height: 33.3vh;
+}
+.b{
+    width: 75.2vw;
+    height: 30vh;
+}
+.c, .d, .e{
+    width: 25vw;
+    height: 33.3vh;
+}
+.f{
+    height: 63.5vh;
+    width: 30vw;
+}
+.flex{
+    display: flex;
+}

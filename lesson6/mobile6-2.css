@@ -1,0 +1,39 @@
+@media screen and (max-width: 480px){
+
+    .a, .b, .c, .d, .e, .f{
+        background-color: #ebc44d;
+        border-radius: 14px;
+        border: 2px seashell solid;
+    }
+
+.a{
+    width: 95vw;
+    height: 15vh;
+}
+.b{
+    width: 95vw;
+    height: 40vh;
+}
+.c, .d, .e{
+    width: 33.5vw;
+    height: 20vh;
+    margin-left: 1px;
+}
+.f{
+    width: 95vw;
+    height: 20vh;
+}
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+}

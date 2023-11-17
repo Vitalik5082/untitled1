@@ -1,0 +1,51 @@
+.red{
+    width: 100vw;
+    height: 100vh;
+    background: red;
+    border-top: 10vw;
+    overflow: hidden;
+    /*100*/
+}
+.blue{
+    width: 100vw;
+    height: 100vh;
+    background: blue;
+    margin-top: 0;
+    overflow: hidden;
+}
+.green{
+    width: 100vw;
+    height: 100vh;
+    background: green;
+    overflow: hidden;
+}
+body{
+    margin: 0;
+    width: fit-content;
+}
+h1{
+    margin-top: 0;
+    padding-top: 8vw;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*padding-top: 100px;*/
+}
+html{
+
+    scroll-behavior: smooth;
+    margin: 0;
+}
+p{
+    margin: 0;
+    padding-top: 5vw;
+}
+.strelka{
+    margin-top: 5%;
+}
+.revers{
+    border-top: 3vw;
+        transform: rotate(180deg);
+}

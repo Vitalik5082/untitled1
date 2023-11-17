@@ -1,0 +1,42 @@
+body{
+    color: #7a7a7a;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+input{
+    border: #7a7a7a 1px solid;
+    border-radius: 1px;
+    width: 200px;
+    height: 20px;
+    margin-bottom: 20px;
+    font-size: 11px;
+}
+.name{
+    width: 95px;
+
+}
+button{
+    width: 200px;
+    height: 20px;
+    background-color: #f6d700;
+    border: #ebc44d 1px solid;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+#form_size{
+    width: 210px;
+    height: 210px;
+
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+.name{
+    /*margin-left: 0px;*/
+}
+p{
+   margin-bottom: 0;
+}

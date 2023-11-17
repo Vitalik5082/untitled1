@@ -1,0 +1,60 @@
+body{
+    background-color: #97f996;
+}
+h2{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+.culmn{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: flex-start;
+}
+input{
+    width: 300px;
+    margin-top: 5px;
+}
+sub{
+    color: red;
+}
+.marg{
+    margin-top: 10px;
+}
+.marg1{
+    margin-top: -39px;
+}
+.state{
+    display: flex;
+    flex-direction: column;
+    margin-left: 90px;
+}
+#kyivstar{
+    width: 13px;
+    height: 14px;
+}
+#MTS{
+    width: 13px;
+    height: 14px;
+}
+#Life{
+    width: 13px;
+    height: 14px;
+}
+#peoplenet{
+    width: 13px;
+    height: 14px;
+}
+#Utel{
+    width: 13px;
+    height: 14px;
+}
+.flex{
+    display: flex;
+flex-direction: row;
+    margin-top: 10px;
+}
+button{
+    margin-left: 10px;
+}

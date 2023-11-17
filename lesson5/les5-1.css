@@ -1,0 +1,27 @@
+/*done*/
+#one>ol>li:nth-child(even){
+    color: palevioletred;
+}
+/*done*/
+#two>ol>li:nth-child(odd){
+    font-size: 22px;
+}
+
+/*done*/
+#three>ol>li:nth-child(2n+4){
+    content: "!";
+    color: red;
+    font-size: 20px;
+}
+
+/*done*/
+#four>ol>li:last-child{
+    color: palevioletred;
+}
+
+
+/*//done//*/
+#five>ol>li::first-letter{
+    font-size: 30px;
+    color: red;
+}

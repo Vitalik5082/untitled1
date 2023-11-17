@@ -1,0 +1,36 @@
+@media screen and (min-width: 100px) and (max-width: 450px) {
+
+    .flex{
+        display: inline-flex;
+        flex-direction: column;}
+
+    .bloc_b, .bloc_a, .bloc_c{
+        background-color: #ebc44d;
+    border-radius: 30px}
+
+.bloc_b{
+    width: 100vw;
+    height: 60vh;
+}
+.bloc_c{
+    width: 100vw;
+    height: 20vh;
+
+}
+.bloc_a{
+    width: 100vw;
+    height: 20vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}

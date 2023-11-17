@@ -1,0 +1,32 @@
+.flex{
+    display: flex;
+}
+.bloc_a, .bloc_b, .bloc_c{
+    background-color: #7a7a7a;
+    border-radius: 10px;
+    border: #e7f1f1 1px solid;
+}
+.bloc_a{
+    height: 30vh;
+    width: 98.5vw;
+
+}
+body{
+    margin: 0;
+}
+.bloc_b{
+    height: 70vh;
+    width: 70vw;
+}
+.bloc_c{
+    width: 30vw;
+}
+p{font-size: 60px;
+    color: #e7f1f1;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}

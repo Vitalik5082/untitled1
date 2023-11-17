@@ -1,0 +1,29 @@
+header{
+    width: 100vw;
+    height: 50vh;
+    background: #fdbec9;
+    }
+footer{
+    width: 100vw;
+    height: 50vh;
+    background: #272727;
+}
+body{
+    margin: 0;
+}
+.flex{
+display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.white{
+    color: white;
+}
+p{
+    font-size: 30px;
+}
+h1{
+  margin-top: 80px;
+
+}
