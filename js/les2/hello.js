@@ -1,16 +1,21 @@
 let hello = ['one',2,true,4,'five',6,false,'eight','nine','ten']
-console.log(hello[0])
-console.log(hello[1])
-console.log(hello[2])
-console.log(hello[3])
-console.log(hello[4])
-console.log(hello[5])
-console.log(hello[6])
-console.log(hello[7])
-console.log(hello[8])
-console.log(hello[9])
+// console.log(hello[0])
+// console.log(hello[1])
+// console.log(hello[2])
+// console.log(hello[3])
+// console.log(hello[4])
+// console.log(hello[5])
+// console.log(hello[6])
+// console.log(hello[7])
+// console.log(hello[8])
+// console.log(hello[9])
+
+for (let i = 0; i < hello.length; i++) {
+    console.log(hello[i])
+};
 //- Створити 3 об'єкти які описують книги. Поля об'єкту : title ,pageCount, genre.
-let book = {
+
+    let book = {
     title: 1,
     pageCount:2,
     genre:3,
@@ -81,14 +86,14 @@ let adm = [
         password: 234242423,
     },
 ]
-console.log(adm[0].password)
-console.log(adm[1].password)
-console.log(adm[2].password)
-console.log(adm[3].password)
-console.log(adm[4].password)
-console.log(adm[5].password)
-console.log(adm[6].password)
-console.log(adm[7].password)
-console.log(adm[8].password)
-console.log(adm[9].password)
+console.log(adm[0].password,adm[1].password,adm[2].password,adm[3].password,adm[4].password,adm[5].password,adm[6].password,adm[7].password,adm[8].password,adm[9].password)
+// console.log(adm[1].password)
+// console.log(adm[2].password)
+// console.log(adm[3].password)
+// console.log(adm[4].password)
+// console.log(adm[5].password)
+// console.log(adm[6].password)
+// console.log(adm[7].password)
+// console.log(adm[8].password)
+// console.log(adm[9].password)
 
