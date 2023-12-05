@@ -96,4 +96,10 @@ console.log(adm[0].password,adm[1].password,adm[2].password,adm[3].password,adm[
 // console.log(adm[7].password)
 // console.log(adm[8].password)
 // console.log(adm[9].password)
-
+//itin
+console.log('-------------------------')
+for (const admKey in adm) {
+    console.log(admKey);
+    console.log(adm[admKey])
+    
+}
